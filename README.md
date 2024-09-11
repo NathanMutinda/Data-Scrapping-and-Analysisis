@@ -1,5 +1,5 @@
 # **Data-Scrapping-and-Analysisis**
-A platform that Utilizes Django Scrappy to get information from any URL On the internet 
+A platform that Utilizes Django Scrappy to get information from any URL ACROSS THE WEB
 
 #### **Technologies used**
 This project uses the following technologies to achieve its functionality
